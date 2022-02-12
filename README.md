@@ -1,5 +1,5 @@
 # NewHaplotypes
-Database 
+
 Supplementary Material from the study "Validation of New D-loop Haplotypes of the Loggerhead Turtles from Southwest Atlantic" of 
 Sandra Ludwig1*; José Erickson1; Lais Amorim1; Ana Carolina Barcelos1; Paula Rodrigues Guimarães1 & Sarah Vargas1
 
