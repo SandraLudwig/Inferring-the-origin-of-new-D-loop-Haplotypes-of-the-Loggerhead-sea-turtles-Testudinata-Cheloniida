@@ -1,6 +1,6 @@
 # NewHaplotypes
 
-Supplementary Material from the study "Validation of New D-loop Haplotypes of the Loggerhead Turtles from Southwest Atlantic" of 
+Supplementary Material from the study "Inferring the origin of new D-loop Haplotypes of the Southwest Atlantic Loggerhead sea turtles (Testudinata: Cheloniidae)"  
 Sandra Ludwig1*; José Erickson1; Lais Amorim1; Ana Carolina Barcelos1; Paula Rodrigues Guimarães1 & Sarah Vargas1
 
 1Laboratório de Genética e Evolução Molecular, Departamento de Ciências Biológicas, Universidade Federal do Espírito Santo, Av. Fernando Ferrari, 514, Campus Goiabeiras, 29075-910 Vitória, ES, Brazil. *Corresponding author: +55(45)99136-9739 e-mail: sand.ludwig@gmail.com
