@@ -1,8 +1,7 @@
-# NewHaplotypes
+# Inferring the origin of new D-loop Haplotypes of the Southwest Atlantic Loggerhead sea turtles (Testudinata: Cheloniidae)
 
-Supplementary Material from the study "Inferring the origin of new D-loop Haplotypes of the Southwest Atlantic Loggerhead sea turtles (Testudinata: Cheloniidae)"  
 Sandra Ludwig1*; José Erickson1; Lais Amorim1; Ana Carolina Barcelos1; Paula Rodrigues Guimarães1 & Sarah Vargas1
 
 1Laboratório de Genética e Evolução Molecular, Departamento de Ciências Biológicas, Universidade Federal do Espírito Santo, Av. Fernando Ferrari, 514, Campus Goiabeiras, 29075-910 Vitória, ES, Brazil. *Corresponding author: +55(45)99136-9739 e-mail: sand.ludwig@gmail.com
 
-ORCID: SL https://orcid.org/0000-0003-0550-901X; JE https://orcid.org/0000-0001-5487-2419; LA https://orcid.org/0000-0002-2026-5044; ACB https://orcid.org/0000-0002-9965-1924; PRG https://orcid.org/0000-0003-4263-4135; SV https://orcid.org/0000-0002-8042-7295
+Abstract: The populations of the loggerhead turtles, Caretta caretta, presents four main D-loop mitochondrial haplotypes being CcP1, CcA1, CcA2, and CcA3 that are distributed along with the Pacific, Mediterranean, and Atlantic oceans. The Southwestern Atlantic (SWA) is one of the largest Regional Management Units (RMUs) of C. caretta that presents unique haplotypes, high nest density, and unique life-history. The detection of new D-loop haplotypes for the C. caretta is important especially those that are endemic because can improve our understanding of their life history into the RMUs and contribute to mixed stock analysis. In this study, we performed a set of delimiting and phylogenetic analyzes to identify, validate and infer the origin of new D-loop haplotypes of C. caretta found in the SWA. The findings demonstrate that the new five D-loop haplotypes are valid and unique for the SWA lineage that could be used as delimitating of origin and lineage.
